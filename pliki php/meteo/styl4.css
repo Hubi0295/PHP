@@ -1,0 +1,56 @@
+body{
+	font-family: Garamond;
+}
+#baner1, #baner3{
+	background-color: RGB(95,158,160);
+	color: yellow;
+	width: 20%;
+	height: 90px;
+	text-align: right;
+}
+#baner1{
+	float: left;
+}
+#baner2{
+	float:left;
+	background-color: RGB(95,158,160);
+	color: yellow;
+	width: 60%;
+	height: 90px;
+	text-align: center;
+}
+#baner3{
+	float: right;
+}
+#blok1, #blok2{
+	background-color: RGB(175,238,238);
+	width: 50%;
+	height: 250px;
+}
+#blok1{
+	float:left;
+}
+#blok2{
+	float:right;
+}
+#glowny{
+	background-color: RGB(95,158,160);
+	padding: 30px;
+}
+#stopka{
+	background-color: RGB(175,238,238);
+	padding: 10px;
+}
+table{
+	border: 2px dotted green;
+	width: 100%;
+	border-collapse: collapse;
+}
+td{
+	border: 2px dotted green;
+}
+th{
+	border: 2px dotted green;
+	background-color: green;
+	color: yellow;
+}

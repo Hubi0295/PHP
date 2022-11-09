@@ -1,0 +1,25 @@
+#baner{
+	background-color:#812F8D;
+	color:white;
+	font-size:200%;
+	text-align: center;
+	padding: 10px;
+}
+#panel_lewy{
+	height:100%;
+	background-color:#BB74C4;
+	color:white;
+	width:25%;
+	margin:0 auto;
+	float:left
+}
+#panel_prawy{
+	width:75%;
+	float:left
+}
+h2{
+	text-align:center;
+}
+form{
+	margin: 20px;
+}
